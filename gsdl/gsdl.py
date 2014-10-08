@@ -130,7 +130,7 @@ class Gsdl_search(object):
             },
             'GOOGLE_SEARCH_PARAMS': {
                 'start': "0",
-                'num': "20",
+                'num': "30",
             }
         }
         if self.proxyfile:
